@@ -1,0 +1,6 @@
+2026-08-09T18:30:00.000000+09:00
+Starting ORACLE instance
+2026-08-09T18:31:10.000000+09:00
+ORA-00257: archiver error
+2026-08-09T18:32:00.000000+09:00
+Thread 1 advanced to log sequence 101
