@@ -4,3 +4,9 @@ Starting ORACLE instance
 ORA-00257: archiver error
 2026-08-09T18:32:00.000000+09:00
 Thread 1 advanced to log sequence 101
+2026-08-09T18:35:00.000000+09:00
+ORA-00600: internal error code
+2026-08-09T18:36:00.000000+09:00
+ORA-00257: archiver error
+2026-08-09T18:37:00.000000+09:00
+ORA-01555: snapshot too old
